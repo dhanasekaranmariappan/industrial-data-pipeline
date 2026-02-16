@@ -1,5 +1,26 @@
 # Industrial Data Pipeline & Analytics System
 
+## Business Problem
+
+Industrial environments generate high-frequency machine telemetry.
+This project simulates how manufacturing companies monitor equipment
+health, detect anomalies, and support predictive maintenance decisions.
+
+## Solution
+
+Built an end-to-end data pipeline that:
+
+1. Ingests machine telemetry datasets
+2. Cleans and transforms using Pandas
+3. Stores structured data in MySQL
+4. Performs exploratory analytics (EDA)
+5. Generates operational visualizations
+6. Prepares foundation for ML-based anomaly detection
+
+## Tech Stack
+
+Python | Pandas | MySQL | Matplotlib | Plotly | SQL | Data Engineering Concepts
+
 ## Overview
 This project demonstrates a production-style data engineering workflow built using Python, MySQL, and analytical visualization tools.  
 It simulates an Industry 4.0 environment where operational machine data is ingested, cleaned, stored, analyzed, and visualized to support data-driven decision-making.
