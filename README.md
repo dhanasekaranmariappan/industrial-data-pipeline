@@ -182,12 +182,13 @@ It reflects the type of data engineering and analytics workflows used in industr
 
 ---
 
-## Future Enhancement (Planned)
+## Future Enhancements
 
-Next phase will introduce:
 - Machine Learning–based anomaly detection
-- Predictive maintenance modeling
-- Automated alert generation
+- Automated pipeline scheduling
+- Cloud deployment (GCP / Azure)
+- Real-time streaming ingestion
+
 
 This will extend the system from analytics → intelligent decision support.
 
